@@ -12,5 +12,6 @@
     "bottomText":"❗️免责声明：本文所介绍的内容以及分享的工具教程仅供大家学习交流、科研以及外贸工作。请遵守本国法律法规，切勿在任何地方发布分裂国家，涉恐等违法犯罪的言论。造成的一切后果自负与本博客无关❗️",
     "primerCSS":"<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />",
     "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
     "GMEEK_VERSION":"last"
 }
